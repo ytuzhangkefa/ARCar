@@ -11,6 +11,7 @@ public class HelloWorld : MonoBehaviour
         print("Hello World 世界你好");	
 		print("Hello World 世界你不好");
 		print ("Hello World 世界你好");
+		Debug.Log("hahaha");
 	}
 	
 	// Update is called once per frame
