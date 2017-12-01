@@ -10,6 +10,7 @@ public class HelloWorld : MonoBehaviour
     {
         print("Hello World 世界你好");	
 		print("Hello World 世界你不好");
+		print ("Hello World 世界你好");
 	}
 	
 	// Update is called once per frame
